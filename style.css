@@ -1,0 +1,58 @@
+body
+{
+  color: white;
+  background: #aecdbf;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  background-color: #7e948a;
+}
+p
+{
+  font-family: 'Cairo', sans-serif;
+}
+label
+{
+  background-color: #7e948a;
+  color:#aecdbf;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+}
+button
+{
+  border: 0px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border-radius: 5px;
+}
